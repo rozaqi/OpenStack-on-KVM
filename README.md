@@ -28,9 +28,11 @@ sudo adduser <user> kvm
 </network>
 ```
 ip address disesuaikan
-2. virsh net-define <nama-file>.xml
-3. virsh net-start <nama-file>.xml
-4. virsh net-autostart <nama-file>.xml
+```
+virsh net-define <nama-file>.xml
+virsh net-start <nama-file>.xml
+virsh net-autostart <nama-file>.xml
+```
   
 ### 3. Install OpenStack using Ansible
 
