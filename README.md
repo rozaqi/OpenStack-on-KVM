@@ -1,9 +1,9 @@
 # OpenStack-on-KVM
 
-Spesifikasi Server
-RAM : 58GB
-VCPU : -
-OS : Ubuntu
+Spesifikasi Server  
+RAM : 58GB  
+VCPU : -  
+OS : Ubuntu  
 
 ### 1. Install KVM
 ```
